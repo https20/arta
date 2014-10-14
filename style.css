@@ -1,0 +1,76 @@
+﻿/* 
+Script By Hamid Khaj
+my web : www.xscript.ir
+V: 1.1
+Tag: PHP Script , PHP , Xscript , Scriptfarsi
+*/
+
+body {
+	direction:rtl;
+	margin:0px auto;
+	background-color:#eaeaea;
+	background-image:url(images/bg.png);
+	background-repeat:repeat;
+	background-position:top;
+	font-family:Tahoma;
+	font-size:13px;
+	color:#333;
+        text-align: center;
+}
+
+a{
+	text-decoration:none;
+	color:#333;
+}
+a:hover{
+	text-decoration:none;
+	text-shadow:0 0 2px #746E49;
+}
+
+.logo {
+        text-align: center;
+	margin-top:100px;
+	-webkit-transition:all 0.5s ease-in-out;
+	-moz-transition:all 0.5s ease-in-out;
+	-o-transition:all 0.5s ease-in-out;
+	transition:all 0.5s ease-in-out
+}
+.logo:hover {
+	-webkit-transform:scale(1.1)rotate(3deg);
+	-moz-transform:scale(1.1)rotate(3deg);
+	-ms-transform:scale(1.1)rotate(3deg);
+	-o-transform:scale(1.1)rotate(3deg);
+	transform:scale(1.1) rotate(3deg);
+	-webkit-transition:all 0.9s ease-in-out;
+	-moz-transition:all 0.9s ease-in-out;
+	-o-transition:all 0.9s ease-in-out;
+	transition:all 0.9s ease-in-out
+}
+
+.sib {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #E4E4E4;
+    color: #000000;
+    margin: auto auto;
+    padding: 20px;
+    text-align: center;
+    width: 35%;
+border-radius: 34px;
+opacity: 0.8;
+}
+
+form {
+	margin: 0 0 20px;
+}
+
+
+input {
+box-shadow: 0px 0px 5px #000000;
+	margin: 0 0 20px;
+}
+
+
+input:hover {
+box-shadow: 0px 0px 5px red;
+	margin: 0 0 20px;
+}
